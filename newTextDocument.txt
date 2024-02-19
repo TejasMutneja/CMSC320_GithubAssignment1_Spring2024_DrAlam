@@ -1,0 +1,13 @@
+Why are you interested in taking CMSC320?
+Taking CMSC320, "Intro to Data Science," is important for me because it's a 
+required course for my machine learning major. I want to learn about data science 
+because it helps me understand how to work with big sets of data, which is really
+important in machine learning. By studying topics like data preprocessing and 
+analysis in CMSC320, I can get better at handling large datasets. This course
+will also prepare me for more advanced classes and make me more attractive 
+employers in the future. So, I'm excited to learn and get better at data 
+science through CMSC320.
+
+
+
+
